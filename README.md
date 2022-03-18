@@ -176,8 +176,8 @@ This executable file is based on the wonderful [Tencent/ncnn](https://github.com
 1. Clone repo
 
     ```bash
-    git clone https://github.com/xinntao/Real-ESRGAN.git
-    cd Real-ESRGAN
+    git clone https://github.com/bayuudachi/Real-esr-gan.git
+    cd Real-esr-gan
     ```
 
 1. Install dependent packages
